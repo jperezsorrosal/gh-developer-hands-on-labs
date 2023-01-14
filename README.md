@@ -12,7 +12,7 @@ You can find the details for each of the hands-on labs in the sequence of the tr
 ## Day 2:
 * Exercise 1: [GitHub games](/day-2/2.1-GitHub-games.md)
 * Exercise 2: [Local repository](/day-2/2.2-Local-repo.md)
-* Appendix: [Additional links](/day-2/2.3-appendix)
+* Appendix: [Additional links](/day-2/2.3-appendix.md)
 
 Running into an issue? Errors popping up? Ask the trainers for help using the chat function.
 
