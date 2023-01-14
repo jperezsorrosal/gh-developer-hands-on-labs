@@ -14,6 +14,9 @@ You can find the details for each of the hands-on labs in the sequence of the tr
 * Exercise 2: [Local repository](/day-2/2.2-Local-repo.md)
 * Appendix: [Additional links](/day-2/2.3-appendix.md)
 
+# Extra content - GitHub Actions
+* Exercise: [My first workflow](/extra-actions/1.0-my-first-workflow.md)
+
 Running into an issue? Errors popping up? Ask the trainers for help using the chat function.
 
 Enjoy and learn :octocat:
