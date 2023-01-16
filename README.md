@@ -17,6 +17,6 @@ You can find the details for each of the hands-on labs in the sequence of the tr
 # Extra content - GitHub Actions
 * Exercise: [My first workflow](/extra-actions/1.0-my-first-workflow.md)
 
-Running into an issue? Errors popping up? Ask the trainers for help using the chat function.
+Running into an issue? Errors popping up? Ask the trainers for help using the chat function or create an issue in this repository.
 
 Enjoy and learn :octocat:
